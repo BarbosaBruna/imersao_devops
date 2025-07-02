@@ -1,0 +1,29 @@
+# Imersão DevOps
+
+- Alpine é um tipo de imagem mais leve para a aplicação. 
+- Conceito de camada: uma imagem base é usada para construir uma imagem personalizada.
+- o cache de camadas é utilizado para acelerar o processo de construção de imagens.
+- O Dockerfile é um arquivo de configuração que define como a imagem do Docker deve ser construída.
+- O comando `docker build` é usado para construir uma imagem a partir de um Dockerfile.
+- O comando `docker run` é usado para executar um contêiner a partir de uma imagem.
+- O comando `docker ps` lista os contêineres em execução.
+- O comando `docker stop` é usado para parar um contêiner em execução.
+- O comando `docker rm` é usado para remover um contêiner parado.
+- O comando `docker rmi` é usado para remover uma imagem.
+- O comando `docker images` lista as imagens disponíveis no sistema.
+- O comando `docker exec` é usado para executar um comando em um contêiner em execução.
+- O comando `docker logs` é usado para visualizar os logs de um contêiner.
+- O comando `docker network` é usado para gerenciar redes no Docker.
+- O comando `docker volume` é usado para gerenciar volumes no Docker.
+- O comando `docker-compose` é usado para definir e executar aplicativos Docker multi-contêineres.
+- O arquivo `docker-compose.yml` é usado para definir os serviços, redes e volumes de um aplicativo Docker multi-contêineres.
+- O comando `docker-compose up` é usado para iniciar os serviços definidos no arquivo `docker-compose.yml`.
+- O comando `docker-compose down` é usado para parar e remover os serviços definidos no arquivo `docker-compose.yml`.
+- O comando `docker-compose logs` é usado para visualizar os logs dos serviços definidos no arquivo `docker-compose.yml`.
+
+- O CI automatiza o processo de integração contínua, permitindo que as alterações no código sejam testadas e integradas automaticamente.
+- O CD automatiza o processo de entrega contínua, permitindo que as alterações no código sejam implantadas automaticamente em ambientes de produção.
+  
+
+Acesso ao certificado do curso:
+MARVEL
